@@ -1,0 +1,8 @@
+XmbHome 1.0 XmbHome.qml
+XmbCross 1.0 XmbCross.qml
+XmbCrossItem 1.0 XmbCrossItem.qml
+XmbBackground 1.0 XmbBackground.qml
+XmbSounds 1.0 XmbSounds.qml
+Clock 1.0 Clock.qml
+ConfirmDialog 1.0 ConfirmDialog.qml
+HintButton 1.0 HintButton.qml
